@@ -1,0 +1,159 @@
+
+---Downloaded files---
+The import files for: Full Demo were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = https://tours.rbmarketing.agency
+Data file = /home/u199424247/domains/rbmarketing.agency/public_html/tours/wp-content/uploads/2023/03/demo-content-import-file_2023-03-28__11-31-24.xml
+Widget file = /home/u199424247/domains/rbmarketing.agency/public_html/tours/wp-content/uploads/2023/03/demo-widgets-import-file_2023-03-28__11-31-24.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Imported
+Categories - No Title - Imported
+Tag Cloud - Tags - Imported
+
+Footer Column 1 : 
+
+Custom HTML - Need My Travel Help? - Imported
+Navigation Menu - No Title - Imported
+
+Footer Column 2 : 
+
+Navigation Menu - Company - Imported
+
+Footer Column 3 : 
+
+Navigation Menu - Other Services - Imported
+
+Footer Column 4 : 
+
+Navigation Menu - No Title - Imported
+
+Footer Column 5 : 
+
+Custom HTML - Mailing List - Imported
+WPForms - No Title - Imported
+
+Shop Sidebar : 
+
+MyTravel - View Map - No Title - Imported
+MyTravel Product Filter - No Title - Imported
+
+Product Filters : 
+
+MyTravel Filter Products by Gold Star Rating - Star Rating - Imported
+Filter Products by Rating - Guest Star Rating - Imported
+Filter Products by Price - Price Range ($) - Imported
+MyTravel Filter Products by Attribute - Meals - Imported
+MyTravel Filter Products by Attribute - Facilities - Imported
+MyTravel Filter Products by Attribute - Property Type - Imported
+MyTravel Filter Products by Attribute - City - Imported
+MyTravel Filter Products by Attribute - Duration - Imported
+MyTravel Filter Products by Attribute - Languages - Imported
+MyTravel Filter Products by Attribute - Categories - Imported
+
+
+
+---ocdi/after_import---
+

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<demo>
+
+	<option>
+	<name>nicdark_elementor_active</name>
+	<value>1</value>
+	</option>
+
+	<option>
+	<name>nd_travel_currency</name>
+	<value>$</value>
+	</option>
+
+	<option>
+	<name>nd_travel_elementor_enable</name>
+	<value>1</value>
+	</option>
+
+	<option>
+	<name>nd_travel_customizer_plugin_style</name>
+	<value>custom-style-1</value>
+	</option>
+
+	<option>
+	<name>elementor_disable_color_schemes</name>
+	<value>yes</value>
+	</option>
+
+	<option>
+	<name>elementor_disable_typography_schemes</name>
+	<value>yes</value>
+	</option>
+
+	<option>
+	<name>nd_travel_search_page</name>
+	<value>4546</value>
+	</option>
+
+	<option>
+	<name>nd_travel_customizer_color_dark_1</name>
+	<value>#394e41</value>
+	</option>
+
+	<option>
+	<name>nd_travel_customizer_color_dark_2</name>
+	<value>#394e41</value>
+	</option>
+
+	<option>
+	<name>nd_travel_customizer_color_1</name>
+	<value>#405749</value>
+	</option>
+
+	<option>
+	<name>nd_travel_customizer_color_2</name>
+	<value>#cc976c</value>
+	</option>
+
+</demo>
+	

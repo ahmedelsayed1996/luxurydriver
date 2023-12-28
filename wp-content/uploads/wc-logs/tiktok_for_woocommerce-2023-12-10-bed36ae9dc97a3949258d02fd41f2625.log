@@ -1,0 +1,62 @@
+2023-12-10T13:19:48+00:00 DEBUG POST: https://business-api.tiktok.com/tbp/v2.0/business_profile/disconnect?external_data=
+
+{"business_platform":"WOO_COMMERCE","external_business_id":false}
+ ajax: no
+2023-12-10T13:19:48+00:00 DEBUG Tt4b_Mapi_Class::tbp_post: Response: 
+
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+X-Api-Deprecation-Info: API for Business Version 1.3 is now live. To avoid disruption to your business, we recommend you migrate all calls to v1.3 as soon as possible. Please visit our migration guide for more details: https://ads.tiktok.com/marketing_api/docs?id=1740029169927169
+X-Domain-Change-Info: We have moved to the new domain business-api.tiktok.com for API services after the Platform Upgrade on 09/30/2021. Please update all of your requests with the new domain if you haven't done so already. For more information, please visit https://ads.tiktok.com/marketing_api/docs?rid=esb88xalm6m&id=1709207085043713
+X-Tt-Logid: 202312101319471544E3ACB0B40B93A3F6
+x-tt-trace-host: 01a623fd224e057a8cc3ba55cfe3da5eae2da8445872d57452f48f33e635f5d806b005b0f6e9a32be840510532b6a1475192ec1eba983034a1f277382637a8273e82f30112aacd137cbf8b3fca2c9fd2d975d55c4b3bfbdfbea777369b2e4d4d307f6a4796b040c17bf0bfeb4b47357cad
+x-tt-trace-id: 00-2312101319471544E3ACB0B40B93A3F6-7AF3076975AEBB38-00
+Server: TLB
+X-Origin-Response-Time: 30,23.44.5.222
+X-Akamai-Request-ID: ee42f9c5.767522a
+Expires: Sun, 10 Dec 2023 13:19:48 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Sun, 10 Dec 2023 13:19:48 GMT
+X-Cache: TCP_MISS from a92-123-13-196.deploy.akamaitechnologies.com (AkamaiGHost/11.3.2-52183077) (-)
+Connection: close
+X-Cache-Remote: TCP_MISS from a23-44-5-222.deploy.akamaitechnologies.com (AkamaiGHost/11.3.2-52183077) (-)
+x-tt-trace-tag: id=16;cdn-cache=miss;type=dyn
+Server-Timing: cdn-cache; desc=MISS, edge; dur=163, origin; dur=29
+Server-Timing: inner; dur=8
+X-Parent-Response-Time: 187,92.123.13.196
+
+{"code":40001,"message":"Permission denied.","request_id":"202312101319471544E3ACB0B40B93A3F6"}
+
+2023-12-10T13:19:48+00:00 DEBUG POST: https://business-api.tiktok.com/tbp/v2.0/shop/connection/disconnect?external_data=
+
+--- EMPTY STRING ---
+ ajax: no
+2023-12-10T13:19:48+00:00 DEBUG Tt4b_Mapi_Class::tts_shop_disconnect: Response: 
+
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+X-Api-Deprecation-Info: API for Business Version 1.3 is now live. To avoid disruption to your business, we recommend you migrate all calls to v1.3 as soon as possible. Please visit our migration guide for more details: https://ads.tiktok.com/marketing_api/docs?id=1740029169927169
+X-Domain-Change-Info: We have moved to the new domain business-api.tiktok.com for API services after the Platform Upgrade on 09/30/2021. Please update all of your requests with the new domain if you haven't done so already. For more information, please visit https://ads.tiktok.com/marketing_api/docs?rid=esb88xalm6m&id=1709207085043713
+X-Tt-Logid: 20231210131947861E841F1DF5789391F8
+x-tt-trace-host: 01a623fd224e057a8cc3ba55cfe3da5eaec53b10317d9e625796a5ae3fe3ab076c15475e6d3e5981ec9b1b44779758bf9903bc5998ae7efde0b15f6cfe7b63983ba7dbf420f0fa4ed8c3e1e003cb4c36b155debedc2c3d169a284dac402771094d57ce8ed1698ca700f943f202dd4d93e2
+x-tt-trace-id: 00-231210131947861E841F1DF5789391F8-089B0EB74F53E652-00
+Server: TLB
+X-Origin-Response-Time: 16,184.28.235.183
+X-Akamai-Request-ID: 1f7b7ded.767556a
+Expires: Sun, 10 Dec 2023 13:19:48 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Sun, 10 Dec 2023 13:19:48 GMT
+X-Cache: TCP_MISS from a92-123-13-196.deploy.akamaitechnologies.com (AkamaiGHost/11.3.2-52183077) (-)
+Connection: close
+X-Cache-Remote: TCP_MISS from a184-28-235-183.deploy.akamaitechnologies.com (AkamaiGHost/11.3.2-52183077) (-)
+x-tt-trace-tag: id=16;cdn-cache=miss;type=dyn
+Server-Timing: cdn-cache; desc=MISS, edge; dur=159, origin; dur=16
+Server-Timing: inner; dur=11
+X-Parent-Response-Time: 172,92.123.13.196
+
+{"code":40001,"message":"Permission denied.","request_id":"20231210131947861E841F1DF5789391F8"}
+
